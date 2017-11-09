@@ -5,3 +5,20 @@ Awesome list for the MongooseIM platform
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Backend components
+
+* MongooseIM
+* MongoosePush
+* MongooseICE
+* Tide
+* amoc
+* Escalus
+
+## Frontend components
+
+* Smack (third party)
+* XMPPFramework (third party)
+* Mangosta for Android
+* Mangosta for iOS
+* Retrofit (third party)
+* Jayme
