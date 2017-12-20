@@ -7,18 +7,20 @@ Awesome list for the MongooseIM platform
 
 ## Backend components
 
-* MongooseIM
-* MongoosePush
-* MongooseICE
-* Tide
-* amoc
-* Escalus
+* [MongooseIM](https://github.com/esl/MongooseIM)
+* [MongoosePush](https://github.com/esl/MongoosePush)
+* [MongooseICE](https://github.com/esl/MongooseICE)
+* [Tide](https://tide.erlang-solutions.com/)
+* [amoc](https://github.com/esl/amoc)
+* [Escalus](https://github.com/esl/escalus)
 
 ## Frontend components
 
-* Smack (third party)
-* XMPPFramework (third party)
-* Mangosta for Android
-* Mangosta for iOS
-* Retrofit (third party)
-* Jayme
+* [Smack](https://github.com/igniterealtime/Smack) for Android (third party)
+* [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) for iOS (third party)
+* [Mangosta for Android](https://github.com/esl/mangosta-android)
+* [Mangosta for iOS](https://github.com/esl/mangosta-ios)
+* [Retrofit](https://github.com/square/retrofit) for Android (third party)
+* [Jayme](https://github.com/inaka/Jayme) for iOS
+* [Movim](https://github.com/movim/movim) a modern web and Android client with social networking
+* [Conversations](https://github.com/siacs/Conversations) a powerful Android client
