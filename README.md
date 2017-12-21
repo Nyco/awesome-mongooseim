@@ -18,9 +18,10 @@ Awesome list for the MongooseIM platform
 
 * [Smack](https://github.com/igniterealtime/Smack), XMPP library for Android (third party)
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework), XMPP library for iOS (third party)
-* [Mangosta for Android](https://github.com/esl/mangosta-android), Slack-like XMPP client
-* [Mangosta for iOS](https://github.com/esl/mangosta-ios), Slack-like XMPP client
 * [Retrofit](https://github.com/square/retrofit), REST API library for Android (third party)
 * [Jayme](https://github.com/inaka/Jayme), REST API library for iOS
+* [Strophejs](https://github.com/strophe/strophejs), XMPP library for the web (third party)
+* [Mangosta for Android](https://github.com/esl/mangosta-android), Slack-like XMPP client
+* [Mangosta for iOS](https://github.com/esl/mangosta-ios), Slack-like XMPP client
 * [Movim](https://github.com/movim/movim), a modern web and Android client with social networking
 * [Conversations](https://github.com/siacs/Conversations), a powerful Android client
